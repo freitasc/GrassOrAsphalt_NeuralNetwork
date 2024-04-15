@@ -1,8 +1,10 @@
 # Rede Neural Feed-Foward em C
-
-O objetivo desse trabalho é implementar uma rede neural feed-foward baseada na linguagem C.
+The objective of this work is to implement a feed-forward neural network based on the C language.
 
 ## Descrição
 
 Um dos grandes desafios na computação é a elaboração de métodos capazes de classificar elementos de acordo com certos padrões. Na maioria das vezes, essa é uma atividade que não oferece grandes dificuldades quando realizada por seres humanos. Entretanto, há situações que são mais complexas e que envolvem uma grande quantidade de elementos, podendo tornar o trabalho de classificação manual extremamente árduo. Uma solução para essas situações é o uso de computadores.
 Há diversas abordagens voltadas à classificação. Dentre elas, destacamse as redes neurais artificiais. Redes neurais artificiais surgiram como uma tentativa de se imitar computacionalmente as redes neurais biológicas presentes no sistema nervoso central humano, estas consistem em um arranjo de neurônios interconectados que trocam informação entre si. Dessa forma, permitem a detecção, o aprendizado e a aplicação de padrões. Ademais, as redes neurais artificiais são muito utilizadas em áreas ligadas à inteligência artificial, principalmente para resolver problemas de classificação, de ajuste de função (regressão), de robótica, de controle etc. O presente trabalho tem por objetivo o desenvolvimento de uma rede neural feed-forward.
+
+One of the great challenges of computing is the development of methods capable of classifying elements according to certain patterns. Most of the time, this is an activity that does not pose any major difficulties when carried out by human beings. However, there are situations that are more complex and involve a large number of elements, which can make manual classification work extremely difficult. One solution to these situations is the use of computers.
+There are several approaches to classification. Among them, artificial neural networks stand out. Artificial neural networks emerged as an attempt to computationally imitate the biological neural networks present in the human central nervous system, which consist of an arrangement of interconnected neurons that exchange information with each other. In this way, it allows the detection, learning and application of patterns. Furthermore, artificial neural networks are widely used in areas linked to artificial intelligence, mainly to solve problems of classification, function adjustment (regression), robotics, control, etc. feed-forward.
